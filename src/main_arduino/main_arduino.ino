@@ -18,6 +18,30 @@ void loop(){
   }
 }
 
+/*
+    int valLX = map(ps2x.Analog(PSS_LX), 0, 256, -MAX_SPEED, MAX_SPEED);
+    int valLY = map(ps2x.Analog(PSS_LY), 256, 0, -MAX_SPEED, MAX_SPEED); // инвертируем
+    int valRX = map(ps2x.Analog(PSS_RX), 0, 256, -MAX_SPEED, MAX_SPEED);
+    int valRY = map(ps2x.Analog(PSS_RY), 256, 0, -MAX_SPEED, MAX_SPEED); // инвертируем
+
+    int dutyFR = valLY + valLX;
+    int dutyFL = valLY - valLX;
+    int dutyBR = valLY - valLX;
+    int dutyBL = valLY + valLX;
+
+    dutyFR += valRY - valRX;
+    dutyFL += valRY + valRX;
+    dutyBR += valRY - valRX;
+    dutyBL += valRY + valRX;
+
+    // ПЛАВНЫЙ контроль скорости, защита от рывков
+    motorFR.smoothTick(dutyFR);
+    motorBR.smoothTick(dutyBR);
+    motorFL.smoothTick(dutyFL);
+    motorBL.smoothTick(dutyBL);
+ */
+
+
 void forward(int gradus, int speed) {
   float rad = radians(gradus);
   motor(1,speed*cos(rad-PI/4));
