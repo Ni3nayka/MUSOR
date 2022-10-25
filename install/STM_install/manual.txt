@@ -1,0 +1,5 @@
+metodical:
+https://microkontroller.ru/stm32-projects/nachalo-raboty-s-stm32-blue-pill-s-pomoshhyu-arduino-ide/
+
+driver:
+https://www.mischianti.org/2022/06/09/stm32-programming-stm32f1-via-usb-with-stm32duino-boot-loader-2/
