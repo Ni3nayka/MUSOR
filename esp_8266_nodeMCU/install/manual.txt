@@ -1,0 +1,6 @@
+install:
+https://alexgyver.ru/lessons/esp8266/
+
+прерывания:
+https://randomnerdtutorials.com/interrupts-timers-esp8266-arduino-ide-nodemcu/
+https://alexgyver.ru/lessons/interrupts/
