@@ -1,0 +1,19 @@
+прерывание:
+https://alexgyver.ru/lessons/interrupts/
+https://randomnerdtutorials.com/interrupts-timers-esp8266-arduino-ide-nodemcu/
+
+start:
+https://alexgyver.ru/lessons/esp8266/
+https://arduinomaster.ru/platy-arduino/esp8266-nodemcu-v3-lua/
+https://radioprog.ru/post/863
+https://habr.com/ru/post/547330/
+
+analogread:
+https://wikihandbk.com/wiki/ESP8266:Примеры/Считывание_аналоговых_данных_через_контакт_ADC_на_ESP8266
+
+pins:
+https://yandex.ru/images/search?text=%D0%A0%D0%90%D0%A1%D0%9F%D0%98%D0%9D%D0%9E%D0%92%D0%9A%D0%90%20ESP8266&stype=image&lr=213&family=yes&source=serp&rlt_url=https%3A%2F%2Fcdn.compacttool.ru%2Fimages%2Fdocs%2F5d303452e45c1.jpg&ogl_url=http%3A%2F%2Fradioprog.ru%2Fuploads%2Fmedia%2Farticles%2F0001%2F05%2F5d583ca1180c4061564ee39e6b0ef0752b92d768.png&p=4&pos=222&rpt=simage&img_url=http%3A%2F%2Fi.imgur.com%2FhLr75tx.png
+
+wifi boot:
+https://habr.com/ru/company/first/blog/654623/
+https://radioprog.ru/post/885

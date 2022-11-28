@@ -1,0 +1,15 @@
+https://microkontroller.ru/stm32-projects/programmirovanie-stm32-blue-pill-cherez-usb-port-s-pomoshhyu-arduino-ide/
+https://github.com/rogerclarkmelbourne/STM32duino-bootloader/blob/master/binaries/generic_boot20_pc13.bin
+https://drive.google.com/u/0/uc?id=1eugUm71YfjDTjrS6yAuwcbREC7Xa5vTM&export=download
+https://www.st.com/en/development-tools/flasher-stm32.html#get-software
+https://microkontroller.ru/stm32-projects/nachalo-raboty-s-stm32-blue-pill-s-pomoshhyu-arduino-ide/
+https://www.onetransistor.eu/2017/11/stm32-bluepill-arduino-ide.html
+https://maker.pro/arduino/tutorial/how-to-program-the-stm32-blue-pill-with-arduino-ide
+https://yandex.ru/images/search?from=tabbar&text=%D0%A0%D0%90%D0%A1%D0%9F%D0%98%D0%9D%D0%9E%D0%92%D0%9A%D0%90%20STM%20BLUE%20PILL&family=yes
+https://github.com/rogerclarkmelbourne/Arduino_STM32/blob/master/drivers/win/install_STM_COM_drivers.bat
+http://microsin.net/programming/arm/program-stm32-blue-pill-via-usb.html
+https://www.mischianti.org/2022/06/09/stm32-programming-stm32f1-via-usb-with-stm32duino-boot-loader-2/
+https://www.lucadentella.it/en/2017/07/13/stm32-e-arduino/
+https://microkontroller.ru/stm32-projects/ispolzovanie-aczp-v-stm32f103c8-stm32-blue-pill/
+https://microkontroller.ru/stm32-projects/nachalo-raboty-s-stm32-blue-pill-s-pomoshhyu-arduino-ide/
+
